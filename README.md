@@ -179,12 +179,4 @@ This project is for educational and development purposes.
 
 ---
 
-If you want, I can also:
 
-✔ Generate ER diagram
-✔ Generate complete DB SQL script
-✔ Create API documentation
-✔ Create a professional logo
-✔ Improve the README with badges/screenshots
-
-Just tell me!
